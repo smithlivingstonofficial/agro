@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* If you are using the AI Assistant with the 'prose' class, add this too */
+@plugin "@tailwindcss/typography"; 
+
+/* Your custom styles below */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #020617; /* Slate-950 */
+}
